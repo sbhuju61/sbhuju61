@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I am Saurav. 👋
+---
+
+#### I'm a Full-Stack Developer.
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I love learning things.
+
+
+**Languages and Tools:**
+- Java
+- Oracle SQL
+- Javascript Libaries: Angular and React
 
 <!--
 **sbhuju61/sbhuju61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
