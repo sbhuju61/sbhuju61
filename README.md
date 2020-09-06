@@ -1,3 +1,4 @@
+![Image of Yaktocat](36684.png)
 ### Hi there, I am Saurav. 👋
 ---
 
