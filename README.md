@@ -7,9 +7,10 @@
 
 
 **Languages and Tools:**
-- Java
+- Java: Spring Boot and Hibernate 
 - Oracle SQL
-- Javascript Libaries: Angular and React
+- Javascript: Angular and React
+- AWS and Docker
 
 <!--
 **sbhuju61/sbhuju61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
