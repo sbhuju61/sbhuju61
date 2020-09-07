@@ -2,13 +2,13 @@
 ### Hi there, I am Saurav. 👋
 ---
 
-#### I'm a Full-Stack Developer.
+#### 👨‍💻 I'm a Full-Stack Developer.
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> I love learning things.
 - 💬 Ask me about Web dev related Stuff
 - ⚡ I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-**Languages and Tools:**
+#### 🔨 Languages and Tools:
 - Java: Spring Boot and Hibernate 
 - Oracle SQL
 - Javascript: Angular and React
