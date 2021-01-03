@@ -11,6 +11,7 @@
 #### 🔨 Languages and Tools:
 - Java: Spring Boot and Hibernate 
 - Oracle SQL
+- Pandas (Python)
 - Javascript: Angular and React
 - AWS and Docker
 
